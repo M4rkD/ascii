@@ -44,7 +44,6 @@ Collate:
     'asciiTable.r'
     'asciiTs.r'
     'asciiVector.r'
-    'bind.r'
     'cacheSweaveAscii.r'
     'cbind.r'
     'export.r'
